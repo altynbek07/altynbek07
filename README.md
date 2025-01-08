@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **altynbek.kazezov.97@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFT9uPhO1k/cTSnCHbT6CmM2xDnfyLhVw/view?utm_content=DAFT9uPhO1k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0ce648ea09](https://www.canva.com/design/DAFT9uPhO1k/cTSnCHbT6CmM2xDnfyLhVw/view?utm_content=DAFT9uPhO1k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0ce648ea09)
+- 📄 Know about my experiences [link](https://www.canva.com/design/DAFT9uPhO1k/cTSnCHbT6CmM2xDnfyLhVw/view?utm_content=DAFT9uPhO1k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0ce648ea09)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
