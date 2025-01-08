@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Altynbek</h1>
 <h3 align="center">A backend developer from Kazakhstan 🇰🇿</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=altynbek07" alt="altynbek07" /></a> </p>
-
 - 🔭 I’m currently working on [laravel-exchange-1c](https://github.com/altynbek07/laravel-exchange-1c)
 
 - 🌱 I’m currently learning **Go**
@@ -16,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/altynbek07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="altynbek07" height="30" width="40" /></a>
+<a href="https://t.me/altynbek07" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="altynbek07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
